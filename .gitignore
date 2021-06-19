@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+*.log
+*.out
+*.sqlite3
+*.session
+
