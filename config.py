@@ -1,6 +1,6 @@
 import os
 
-API_ID = 0
+API_ID = 1
 API_HASH = ''
 SESSION_NAME = ''
 
